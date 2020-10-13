@@ -7,3 +7,5 @@
 <a href="https://dribbble.com/elvincth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="elvincth" height="30" width="30" /></a>  
 <a href="https://www.linkedin.com/in/elvin-chu-5850531b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elvincth" height="30" width="30" /></a>
 </p>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felvincth&count_bg=%23009CFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=+Visitor+counter&edge_flat=false)](https://hits.seeyoufarm.com)
