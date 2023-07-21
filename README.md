@@ -7,8 +7,7 @@
 <p><a href="https://www.buymeacoffee.com/savyjs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="savyjs" /></a></p><br><br>
 
 
-<p align="center">
-<a href="https://twitter.com/ehsanthesavage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="savyjs" height="30" width="30" /></a>  
+<p align="center">  
 <a href="https://www.linkedin.com/in/ehsan-afshari-1192b6128" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="savyjs" height="30" width="30" /></a>
 </p>
 
