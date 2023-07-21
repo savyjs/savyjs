@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Savy (Ehsan Afshari)</h1>
+<h1 align="center">Hi 👋, I'm Savy </h1>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=savyjs&show_icons=true" alt="savyjs" /> </p><!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="savyjs" />--> </p>
